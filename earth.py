@@ -1,7 +1,7 @@
 import numpy as np
 from netCDF4 import Dataset
 # download required datset from net
-
+#
 def Etopo(lon_area, lat_area, resolution):
   ### Input
   # resolution: resolution of topography for both of longitude and latitude [deg]
